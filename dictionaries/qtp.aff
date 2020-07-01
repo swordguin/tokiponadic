@@ -1,0 +1,16 @@
+SET UTF-8
+
+TRY ainloemtpksuwj
+KEY qwertyuiop|asdfghjkl;'|zxcvbnm,./|bépoèvdljzw|auietsrnm|àyx.k'qghfç
+
+NOSUGGEST --
+KEEPCASE cc
+
+MAP 1
+MAP ée
+MAP zs
+MAP rl
+
+
+BREAK 0
+NOSPLITSUGS

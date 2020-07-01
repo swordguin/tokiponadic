@@ -1,0 +1,21 @@
+{
+    "name": "nimi pona pi toki pona",
+    "short_name": "toki pona",
+
+    "version": "1.0",
+
+    "description": "ilo ni li pona e nimi sina.",
+
+    "dictionaries": {
+        "fr": "dictionaries/qtp.dic"
+    },
+    "homepage_url": "https://invalid.invalid",
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "fr-dicollecte@dictionaries.addons.mozilla.org"
+        }
+    },
+
+    "manifest_version": 2
+}
