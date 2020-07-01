@@ -7,7 +7,7 @@
     "description": "ilo ni li pona e nimi sina.",
 
     "dictionaries": {
-        "fr": "dictionaries/qtp.dic"
+        "qtp": "dictionaries/qtp.dic"
     },
     "homepage_url": "https://github.com/swordguin/tokiponadic",
 
