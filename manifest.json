@@ -9,7 +9,7 @@
     "dictionaries": {
         "fr": "dictionaries/qtp.dic"
     },
-    "homepage_url": "https://invalid.invalid",
+    "homepage_url": "https://github.com/swordguin/tokiponadic",
 
     "browser_specific_settings": {
         "gecko": {
