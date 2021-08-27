@@ -3,7 +3,7 @@
 This is a toki pona dictionary for the Firefox spellchecker (should work with other mozilla software too).
 
 ## Content
-This dictionary contains all the official toki pona words, including proper nouns (continents, countries, languages, religions), unofficial words from the "[nimi ale pona](https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/)" list. Some tokiponists' names are accepted as valid but never suggested to correct typos.
+This dictionary contains all the official toki pona words, including proper nouns (continents, countries, languages, religions), unofficial words from the "[nimi ale pona](https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/)" list. Some tokiponists' names are accepted as valid but never suggested to correct typos. The Ku words not in the previous list have also been added.
 
 This dictionary enforces correct capitalization: lowercase everywhere except at the start of proper nouns.
 
