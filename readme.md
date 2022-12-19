@@ -21,5 +21,5 @@ Right-click in any text-field, enable "Check spelling" and select "qtp" in the "
 mute.
 
 
-## sina li seme?
+## sina seme?
 mi jan Sepulon.
